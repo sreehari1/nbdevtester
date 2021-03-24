@@ -13,7 +13,7 @@ entries:
       title: module name here
       url: core.html
     - output: web,pdf
-      title: Project name here
+      title: Title
       url: M5.html
     output: web
     title: nbdevtester
